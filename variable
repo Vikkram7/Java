@@ -4,6 +4,7 @@ public class Main
    // primitive vs reference 
    //primitive is easy one (direct stack) direct money  int double char boolean
    //reference is used to point (stack to heap) i owe you string array object 
+// declaration and assignment
 
 }
 
