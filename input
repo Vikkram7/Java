@@ -1,1 +1,15 @@
+public class main
+ public static void main(string[] args){
+Scanner sc= new Scanner(System.in);
+String name =  sc.nextLine();
+int ron = sc.nextInt();
+sc.close();
+//next.Double();
+// next.Boolean();
+
+
+
+
+
+
 
