@@ -1,1 +1,10 @@
+public class Main
+{ public static void main(string{} args) {
+
+   // primitive vs reference 
+   //primitive is easy one (direct stack) direct money  int double char boolean
+   //reference is used to point (stack to heap) i owe you string array object 
+
+}
+
 
