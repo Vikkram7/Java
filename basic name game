@@ -1,0 +1,15 @@
+public class main 
+public static void main(String[] args){
+Scanner sc= new scanner(System.in);
+System.out.println('enter a name');
+String name= nextLine();
+System.out.println('enter a fruit');
+String fruit=nextLine();
+System.our.println( name+ 'is a person and he he loves to eat a'+ fruit);
+sc.close();
+}
+
+
+
+
+
