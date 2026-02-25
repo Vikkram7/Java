@@ -5,6 +5,8 @@ public class Main
    //primitive is easy one (direct stack) direct money  int double char boolean
    //reference is used to point (stack to heap) i owe you string array object 
 // declaration and assignment
+int age=20
+System.out.println('my name is vikram' + age);
 
 }
 
