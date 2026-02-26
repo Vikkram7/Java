@@ -15,17 +15,30 @@ isStudent=sc.nextBoolean();
 //group 1
 if(name.isEmpty()){
 System.out.println("you didnt enter your name");
+}
 else {
 System.out.println("hello"+ name);
+}
 //Group 2
 if(age>65)
 { System.out.println("you are a senior citizen");
-else if(age>18);
+}
+else if(age>18) {
 System.out.println("you are an adult");
-else if(age=0);
+}
+else if(age=0){
 System.out.println("you are a baby");
-else if(age<18);
+}
+else if(age<18){
 System.out.println("you are a child");
+}
+//Group3
+if(isStudent){
+System.out.println("you are a student);
+}
+else{
+System.out.println("you are not a student");
+}
 
 
 
