@@ -1,0 +1,5 @@
+public class main
+public static voidn main(String[] args){
+// %s for string %d for int %f for float double %c for char
+int age= 30
+System.out.printf("your age is %d years\n", age); 
