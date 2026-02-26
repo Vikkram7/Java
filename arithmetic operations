@@ -1,1 +1,5 @@
-
+public static main
+public static void main (int[] args){
+x=x=1;// this is general way
+x+=y;// this way is used for x=x+y;
+// also order PEDMAS order of operations
