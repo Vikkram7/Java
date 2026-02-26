@@ -1,1 +1,35 @@
+import java.utill.Scanner;
+public static main{
+public static void manin(String[] args);
+{
+Scanner sc= new scanner(System.in);
+String name;
+int age
+boolean isStudent;
+System.out.println("enter your name:);
+name=sc.nextLine();
+System.out.println("enter your age");
+age=sc.nextint();
+System.in.println("are you a student");
+isStudent=sc.nextBoolean();
+//group 1
+if(name.isEmpty()){
+System.out.println("you didnt enter your name");
+else {
+System.out.println("hello"+ name);
+//Group 2
+if(age>65)
+{ System.out.println("you are a senior citizen");
+else if(age>18);
+System.out.println("you are an adult");
+else if(age=0);
+System.out.println("you are a baby");
+else if(age<18);
+System.out.println("you are a child");
+
+
+
+
+
+
 
