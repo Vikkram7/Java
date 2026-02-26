@@ -1,0 +1,16 @@
+import java.util.Scanner 
+public class main
+public static void main(String[] args){
+Scanner sc= new Scanner(System.in);
+System.out.println("enter  the principal amount (the initial amount of money).")
+int p = sc.nextdouble();
+System.out.println("enter  the annual interest rate (in decimal).")
+int r = sc.nextdouble();
+System.out.println("enter the number of times that interest is compounded per year.")
+  int n = sc.nextdouble();
+System.out.println("enter the number of years the money is invested or borrowed.")
+  int t = sc.nextdouble();
+int a= p*Math.pow(1+r/n,nt);
+
+
+  System.out.println("the amount of money accumulated after n years, including interest is "+ a);
