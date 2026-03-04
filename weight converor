@@ -1,0 +1,18 @@
+public class main{
+public static void main(String[] args)
+{
+double a
+double b
+double c
+double d
+int e
+Scanner sc= new scanner(System.in);
+System.out.println("1: kg to lbs);
+System.out.println("2: lbs to kg);
+e= sc.nextint();
+if(e==1)
+{ a=sc.nextDouble();
+b=2.2*a;
+System.out.println(b);
+}
+else if(e==2)
