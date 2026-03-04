@@ -1,1 +1,3 @@
-
+? used alernatively
+int a=88
+String b =(a>=60) ? "pass" : "fail"
