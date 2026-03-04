@@ -1,0 +1,14 @@
+public class main{
+public static void main[String[] args] {
+double temp
+double new temp
+String s
+Scanner sc= new scanner(System.in);
+temp=sc.nextdouble();
+unit=sc.next().toUppercase();
+new temp=(unit.equals("c") ? (temp-32)*5/9 : (temp*5/9 +32);
+
+
+
+
+
