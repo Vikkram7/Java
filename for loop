@@ -1,0 +1,6 @@
+ppublic class main
+public static void main(String args[])
+for(i=0;i<7;i++) {
+// certain no of times
+i+=23 like that
+
