@@ -1,0 +1,14 @@
+// loop insidSe a loop is called nested loop
+public class main{
+public static void mainString[] args){
+Scanner sc= new Scanner(System.in);
+int rows;
+int columns;
+rows= sc.nextint();
+for (i=o;i<rows;i++){
+System.out.print(a);
+for(j=0;j<column;j++)
+System.out.print(b);
+
+
+
