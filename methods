@@ -1,0 +1,13 @@
+// a block of reusable code when we call it ()
+
+public class main
+public static void main(String[] args);
+{
+int age=21
+static void boolean agecheck(int a){
+if(a<18){
+return false;
+}
+else
+{ return true;
+}
