@@ -1,0 +1,21 @@
+public class Main{
+public static void main(String[] args){
+
+Scanner sc= new Scanner(System.in);
+doible a;
+char b;
+double c;
+double d;
+System.out.println("enter the first number");
+a= sc.nextDouble();
+b=sc.nextd().charAt(0);
+Switch(b){
+case '+' -> d=a+c;
+  case '/'{
+    // use if 
+  }
+}
+
+
+
+
